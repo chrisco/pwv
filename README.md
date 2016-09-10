@@ -1,8 +1,6 @@
-# Capstone Project Proposal for Christopher Comella
+# Pairwise Voting
 
-## Project Description
-
-### Pairwise Voting
+![Screenshot](pairwise_comparison_matrix.png)
 
 #### Description of the MVP
 
@@ -17,6 +15,12 @@
   * [Conjoint analysis](https://www.google.com/search?q=conjoint+analysis)
   * [Paired t-test](http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/tests-of-means/why-use-paired-t/)
   * [Tukey HSD test](http://onlinestatbook.com/2/tests_of_means/pairwise.html)
+
+#### Repos
+
+* This is the __PARENT repo__ of the Pairwise Voting app.
+* The __CLIENT repo__ is here: https://github.com/chrisco/pwv-client
+* And the __SERVER repo__ is here: https://github.com/chrisco/pwv-server
 
 #### Project URLs
 
@@ -47,7 +51,7 @@ A set of items to vote on, such as a list of capstone projects, lunch options, d
 
 ## Technologies you plan to use
 
-The key technologies are anticipated to be be Node.js, React, and WebSockets.
+The key technologies are anticipated to be Node.js, React, and WebSockets.
 
 ## Feature list
 
