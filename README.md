@@ -23,11 +23,16 @@ The ability to perform statistical analysis on voting results, as may be applica
 * The __CLIENT repo__ is here: https://github.com/chrisco/pwv-client
 * And the __SERVER repo__ is here: https://github.com/chrisco/pwv-server
 
-#### Project URLs
+#### Current Project URLs
 
-  * http://pairwisevoting.com
-  * http://pairwisevoting.herokuapp.com
-  * http://pairwisevoting.firebase.com
+  * Slides: http://speakerdeck.com/chrisco/pairwise-voting
+  * Proof of concept / prototype demo: https://youtu.be/65QhZWbcWgw
+
+#### Future Project URLs
+
+    * http://pairwisevoting.com
+    * http://pairwisevoting.herokuapp.com
+    * http://pairwisevoting.firebase.com
 
 ### Who uses it? / What problem does it solve?
 
