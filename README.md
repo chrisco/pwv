@@ -2,10 +2,11 @@
 
 ![Screenshot](pairwise_voting.jpg)
 
-#### Presentation
+#### Links
 
-  * [Slides](http://speakerdeck.com/chrisco/pairwise-voting) (10 slides)
-  * [Proof of concept / prototype demo](https://youtu.be/65QhZWbcWgw) (19 seconds)
+  * [Pitch deck](http://speakerdeck.com/chrisco/pairwise-voting) (10 slides)
+  * [Proof of concept / demo of the app](https://youtu.be/65QhZWbcWgw) (19 seconds)
+  * [Hello world admin site with auth](https://pairwise-voting.herokuapp.com)
 
 #### Description of the MVP
 
