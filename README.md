@@ -1,6 +1,11 @@
 # Pairwise Voting
 
-![Screenshot](pairwise_comparison_matrix.png)
+![Screenshot](pairwise_voting.jpg)
+
+#### Presentation
+
+  * [Slides](http://speakerdeck.com/chrisco/pairwise-voting) (10 slides)
+  * [Proof of concept / prototype demo](https://youtu.be/65QhZWbcWgw) (19 seconds)
 
 #### Description of the MVP
 
@@ -23,16 +28,11 @@ The ability to perform statistical analysis on voting results, as may be applica
 * The __CLIENT repo__ is here: https://github.com/chrisco/pwv-client
 * And the __SERVER repo__ is here: https://github.com/chrisco/pwv-server
 
-#### Current Project URLs
-
-  * Slides: http://speakerdeck.com/chrisco/pairwise-voting
-  * Proof of concept / prototype demo: https://youtu.be/65QhZWbcWgw
-
 #### Future Project URLs
 
-    * http://pairwisevoting.com
-    * http://pairwisevoting.herokuapp.com
-    * http://pairwisevoting.firebase.com
+  * http://pairwisevoting.com
+  * http://pairwisevoting.herokuapp.com
+  * http://pairwisevoting.firebase.com
 
 ### Who uses it? / What problem does it solve?
 
