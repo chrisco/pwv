@@ -4,13 +4,13 @@
 
 #### Links
 
-  * [Pitch deck](http://speakerdeck.com/chrisco/pairwise-voting) (10 slides)
-  * [Proof of concept / demo of the app](https://youtu.be/65QhZWbcWgw) (19 seconds)
-  * [Hello world admin site with auth](https://pairwise-voting.herokuapp.com)
+  * [Slides](http://speakerdeck.com/chrisco/pairwise-voting)
+  * [Video](https://youtu.be/65QhZWbcWgw) (19 seconds)
+  * [Admin site](http://www.pairwisevoting.com)
 
 #### Description of the MVP
 
-  * The __PairwiseVoting app__ is envisioned as:
+  * The __PairwiseVoting app__ is:
     * an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) implementation of a __pairwise comparison__ process,
     * built with state-of-the-art architectures and technologies.
   * [Pairwise Comparison](https://en.wikipedia.org/wiki/Pairwise_comparison) is "any process of comparing entities in pairs to judge which of each entity is preferred. The method of pairwise comparison is used in the scientific study of preferences, attitudes, voting systems, social choice, public choice, and multi-agent AI systems." (Source: Wikipedia)
