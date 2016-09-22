@@ -1,6 +1,11 @@
 # Pairwise Voting
 
-![Screenshot](pairwise_voting.jpg)
+In the image below there are __two__ User Interfaces (connected by [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)):    
+
+1. On the left is the __Voting UI__.
+2. On the right is the __Results UI__.
+
+![Screenshot](pairwise-voting.gif)
 
 #### Links
 
@@ -29,41 +34,37 @@ The ability to perform statistical analysis on voting results, as may be applica
 * The __CLIENT repo__ is here: https://github.com/chrisco/pwv-client
 * And the __SERVER repo__ is here: https://github.com/chrisco/pwv-server
 
-#### Future Project URLs
-
-  * http://pairwisevoting.com
-  * http://pairwisevoting.herokuapp.com
-  * http://pairwisevoting.firebase.com
-
 ### Who uses it? / What problem does it solve?
 
 Groups who want to easily decide, through pairwise comparison, which one of a set of alternatives to pick.
 
 Some examples:
 
-* The "best" project, logo, song, or movie.
+* The "best" startups or capstone projects at a demo day.
 * Which project to build next.
+* Who to hire among all the candidates who applied for a position.
 * What food to order for a meeting or event.
-* Where to go on a company retreat
-* or family vacation.
+* Where to go on a company retreat.
+* Or family vacation.
 * And more...
 
 ### What outputs do they need?
 
-* One responsive, mobile-first UI to view and vote on each pair of alternatives.
-* One UI to view the voting results (in real time).
+* A Voting UI to view and vote on each pair of alternatives.
+* A Results UI to view the voting results (in real time).
 
 ### What inputs are needed to generate those outputs?
 
-A set of items to vote on, such as a list of capstone projects, lunch options, destinations, or whatever.
+A set of items to vote on (see examples, above).
 
 ### Key technologies
 
-The key technologies and architectures are anticipated to be Node.js, React, Redux, and WebSockets.
+The key technologies and architectures are anticipated to be [Node.js](https://nodejs.org/en/), [React](https://facebook.github.io/react/), [Redux](http://redux.js.org/), and [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API).
 
 ### Feature list
 
-1. A User can enter a set of items to vote on.
+1. An Admin User can enter a set of items to vote on.
 2. Users can vote view and vote on each pair of items.
 3. Voting results are displayed (in real time).
-4. The ability to perform statistical analysis on the results, as may be applicable for certain use cases (see "Premium Feature" section, above).
+4. Other features to be developed through customer discovery and customer development (i.e., [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup)).
+5. The ability to perform statistical analysis on the results, as may be applicable for certain use cases (see "Premium Feature" section, above).
