@@ -10,8 +10,9 @@ In the image below there are __two__ User Interfaces (connected by [WebSockets](
 #### Links
 
   * [Slides](http://speakerdeck.com/chrisco/pairwise-voting)
-  * [Video](https://youtu.be/65QhZWbcWgw) (19 seconds)
+  * [Proof of concept](https://youtu.be/65QhZWbcWgw) (19 seconds)
   * [Admin site](http://www.pairwisevoting.com)
+  * [My presentation on capstone day](https://youtu.be/Di1YK9ILPjU?t=1h43m20s) (5 1/2 minutes)
 
 #### Description of the MVP
 
