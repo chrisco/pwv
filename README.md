@@ -1,4 +1,12 @@
-# Pairwise Voting
+# Pairwise Voting Information Repo
+
+__This__ repo contains general information and links related to the project.
+
+The __SERVER repo__ is here: https://github.com/chrisco/pwv-server
+
+Please see the "Links" section, below, for a video of my presentation.
+
+## Screenshot (animated)
 
 In the image below there are __two__ User Interfaces (connected by [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)):    
 
@@ -28,12 +36,6 @@ The ability to perform statistical analysis on voting results, as may be applica
 * [Conjoint analysis](https://www.google.com/search?q=conjoint+analysis)
 * [Paired t-test](http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/tests-of-means/why-use-paired-t/)
 * [Tukey HSD test](http://onlinestatbook.com/2/tests_of_means/pairwise.html)
-
-#### Repos
-
-* This is the __PARENT repo__ of the Pairwise Voting app.
-* The __CLIENT repo__ is here: https://github.com/chrisco/pwv-client
-* And the __SERVER repo__ is here: https://github.com/chrisco/pwv-server
 
 ### Who uses it? / What problem does it solve?
 
