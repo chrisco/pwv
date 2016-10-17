@@ -17,7 +17,7 @@ In the image below there are __two__ User Interfaces (connected by [WebSockets](
 
 #### Links
 
-  * [My presentation on capstone day](https://youtu.be/qW7GWsE8_44) (5 1/2 minutes)
+  * [My presentation on capstone day](https://youtu.be/AyM2LSS5ipw) (5 minutes)
   * [Slides](http://speakerdeck.com/chrisco/pairwise-voting)
   * [Proof of concept](https://youtu.be/65QhZWbcWgw) (19 seconds)
   * [Admin site](http://www.pairwisevoting.com)
